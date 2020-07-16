@@ -1,0 +1,38 @@
+body {
+     background-color:#e4f9ff;
+}
+
+.img-size-1 {
+  height: 25px;
+}
+.img-size-2{
+  height: 90px;
+}
+.header-model-1 {
+  color:#74d4c0;
+  font-family: 'Merienda One', cursive;
+
+}
+.header-model-2{
+  color:#74d4c0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.hr-dotted {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #a6dcef;
+  border-width: 9px;
+}
+.hr-dashed{
+  border-style: none;
+  border-top-style: dashed;
+  border-color: #a6dcef;
+  border-width: 2px;
+}
+.hr-solid{
+  border-style: none;
+  border-top-style: solid;
+  border-color: #a6dcef;
+  border-width: 2px;
+}
